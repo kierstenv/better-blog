@@ -2,13 +2,13 @@
   
   ## Description [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
   
-  Better Blogger is a CMS-style blog site where users can sign up to create blog posts and interact with others.
+  Better Blogger is a CMS-style blog site where users can create an account, publish posts, and interact with a community of developers!
   
   ***
   
   ## Usage 
 
-  Try [Better Blogger]()!
+  Try [Better Blogger](https://better-blogger.herokuapp.com/login)!
   
   ## License
 
